@@ -5,7 +5,8 @@ Understanding population distribution is crucial for planning, resource allocati
 
 ## 📁 Files
 
-population_analysis_2020.py
+### 🐍 `population_analysis_2020.py`
+
 
 This script generates:
 
@@ -48,12 +49,4 @@ Clone this repo or download the .ipynb file.
 Open with Jupyter Notebook or VS Code (with Jupyter extension).
 
 Ensure your CSV file path is correct:
-df = pd.read_csv('path_to/cities_india.csv')
-📄 Dataset Info
-The dataset used: cities_india.csv
-
-Must include columns:
-
-
-Use this as a basis for deeper demographic or economic analysis.
-
+df = pd.read_csv('API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv')
